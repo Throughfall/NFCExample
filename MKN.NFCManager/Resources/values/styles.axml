@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="windowActionBar">true</item>
+    <item name="windowNoTitle">false</item>
+    <item name="colorPrimary">#ffffff</item>
+    <item name="colorPrimaryDark">#000000</item>
+    <item name="colorAccent">#c6c4c4</item>
+  </style>
+</resources>

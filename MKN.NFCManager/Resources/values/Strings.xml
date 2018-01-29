@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MKN.NFCManager</string>
+  <string name="read_tag">NFC Daten lesen</string>
+  <string name="write_tag">NFC Daten schreiben</string>
+</resources>
